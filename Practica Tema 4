@@ -1,0 +1,52 @@
+Practica Tema 4:
+1-Estructura del documento del estándar:
+	a)¿qué apartados tiene?
+		Consta de nueve apartados con dos anexos que se incluyen al final del documento.
+	b)¿cuáles serán generales de todos los estándares y cuáles específicos de este?
+		Los apartados 4 (Introducción a la interconexión de sistemas abiertos) y 5 (Conceptos de arquitectura estratificada) se considerarían generales. A partir de ahí, son específicos de este estándar.
+	c)¿Siguen algún orden los específicos?
+		Sí, el apartado 6 es una pequeña introducción de las capas de OSI, el 7, ya entra en un mayor nivel de detalle de cada capa, el 8 explica cómo se hace la gestión del modelo OSI y el último explica qué ha de cumplirse a la hora de llevar acabo dicho estándar.
+
+2-¿Qué tipo de información de especifica en el "Prefacio" o preámbulo?
+	En el prefacio se especifíca la definición de la UIT junto con un poco de sus historia, así como qué elementos la compone y cuándo se llevó a cabo dicha unión.
+
+3-¿Qué organizaciones han participado en el desarrollo de este estándar?
+	Las organizaciones que han participado en el desarrollo son cuatro: UIT(Unión Internacional de Telecomunicaciones), la CMNT(Conferencia Mundial de Normalización de las Telecomunicaciones), la ISO y por último la CEI
+
+4-¿Qué se indica en la introducción o resumen iniciales?
+	El resumen explica lo que nos proporciona este modelo además de las consideraciones de las normas dentro del modelo. También dice quién ha elaborado el texto, que es la ISO/CEI, junto con el objetivo de este modelo.
+
+5-¿Qué se indica en el objeto y campo de aplicación?
+	En este apartado se explica la finalidad del modelo junto con el hecho de que sea un sistema abierto, es decir, que no pertenece a una empresa, sino que es público. Además, explica en qué dispositivos se emplea. También explica las etapas del modelo OSI. Seguidamente, nos dice los aspectos básicos del modelo de refencia. Por úlitmo, nos habla del presente modelo, donde se explica las normas que satisfacen los requisitos.
+
+6-¿Por qué crees que todos los párrafos tienen un número de apartados?
+	Todos los párrafos tienen un número de apartados para así poder poner más claras las ideas para que al lector no le resulte complicado entender las ideas de cada apartado. Además, existe un estándar que nos dice que hay que dividir cada cláusula en un número de apartados.
+
+7-¿Qué contiene el apartado definiciones de un estándar?
+	Este apartado contiene la explicación de cómo se dividen las siguientes cláusulas y subcláusulas. Además, nos dice que el anexo B incluye todas las refencias de los términos.
+
+8-¿y el apartado de notación?
+	La manera en la que se representan los conceptos del modelo.
+
+9-¿Qué considera el estándar un sistema abierto?¿Cuáles son las ventajas del modelo de interconexión propuesto?
+	Un sistema abierto es un conjunto de computadores, soporte, periféricos, etc... que forman un todo, con capacidad de procesamiento y/o transferencia pertinentes para OSI. Las ventajas de este modelon son, comunicación entre procesos, representación de datos, almacenamiento de datos, gestión de procesos y recursos, integridad y seguridad y por último, soporte de programas.
+
+10-La cláusula 5 decribe la arquitectura de capas. ¿Cuáles son los principios fundamentales con los que se construye? ¿qué son los servicios que presta una capa a otra? ¿y las unidades de información que se mencionan? ¿cuáles son los modos de conexión?
+	Entre los principios fundamentales, nos encontramos con una división en capas que son subdivisiones de la arquitectura OSI, dentro de estas capas encontramos entidades pares, y esta a su vez, se puede dividir en subcapas. Además, las capas prestan servicio y cada una tiene una función. Cada capa se rige por un protocolo y tiene una entidad dentro del subsistema de clase.
+	Cada capa ofrece servicios a través del punto de acceso al servicio(SAP) a una entidad N+1.
+	Las unidades de información, son datos que se envían entre las diferentes entidades a través de diferentes modos de conexión.
+	La conexión es una asociación solicitada por una entidad para la transferencia de datos entre dos o más entidades(conexión extremo de conexión, conexión de puntos extremos múltiples)
+
+11-¿Qué descibe la cláusula 6? ¿cuál es la motivación o cómo se determinaron las 7 capas del modelo OSI?
+	Describe las distintas capas específicas que contiene el modelo OSI junto con la explicación de los modos de conexión que contiene dicho modelo. La motivación de la creación de las siete capas surge por la necesidad de aportar una orientación útil a las decisiones en cuanto a la elaboración de normas relativas al modelo OSI.
+
+12-¿Qué información hay en la cláusula 7? ¿Se corresponde con el contenido de las capas que has anotado al ver el vídeo?
+	La cláusula 7 contiene una descripción detallada de las siete capas que forman la arquitectura del modelo OSI. 
+
+13-¿Qué información hay en la cláusula 8?
+	La cláusula 8 incluye una definición de los aspectos relacionados con la gestión del modelo OSI. Además se explican las distintas categorías de gestión de aplicación, de sistemas y de capas. Finalmente, incluye los principios para poder ubicar las distintas funciones de gestión que se utilizan en este modelo.
+
+14-¿Qué se indica en la cláusula 9? ¿Deberán llevar todos los estándares una cláusula como esta? ¿Por qué es importante en este caso?
+	Se indica el cumplimiento y coherencia con el presente modelo. Son recomendaciones del cumplimiento de las normas internacionales modeladoras. Que una arquitectura, modelo, definición o servicio que haga uso de este modelo debe ser coherente con este y otras recomendaciones. Esta cláusula indica cómo cumplir el modelo creado, por lo que los estándares deberían llevar una cáusula que de un modo u otro indique, como en esta, las recomendationes de uso que aquí se indican. 
+	En este caso es importante el uso de esta cláusula para indicar a todo aquel que vaya a realizar uso de este modelo cómo debe cumplir las restantes cláusulas, para estar en corcondancia con otras aquitecturas, modelos multicapa, monocapa y definiciones.
+

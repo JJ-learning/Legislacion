@@ -1,0 +1,53 @@
+1. Identificar la guía elegida
+	La guía que he elegido para realizar esta práctica es ITIL (Infromation Technology Infrastructure Library).
+
+2. ¿Qué organismo define la guía? ¿cómo ha evolucionado?
+	ITIL es un conjunto de conceptos y buenas prácticas usadas para la gestión de servicios de tecnologías de la información, el desarrollo de tecnolǵías de la información y las operaciones relacionadas con la misma en general. ITIL da descripciones detalladas de un extenso conjunto de procedimientos de gestión ideados para ayudar a las organizaciones a lograr calidad y eficiencia de TI(Tecnologías de la Información).
+	Las empresas que mantienen a ITIL son Ministerio de Comercio(OGC), Foro para la Gestión de Servicio DTI (itSMF) y APM Group.
+
+3. ¿Qué documentos la componen?
+	ITIL en su primera versión contaba con 10 libros principales, que cubrían dos grandes temas: "Soporte al servicio" y "Entrega del servicio".
+
+En su segunda versión tuvo un total de 7 libros:
+	-Soporte al servicio.
+	-Entrega del servicio
+	-Administración de la seguridad.
+	-Administración de la infraestrcutura ICT.
+	-Administración de las aplicaciones.
+	-La perspectica del negocio.
+	-Planeación para implantar la administración de servicios.
+
+En la versión 3 de ITIL se han hecho un total de 5 libros, siendo:
+	-Estrategia del Servicio.
+	-Diseño del Servicio.
+	-Transicion del Servicio.
+	-Operación del Servicio.
+	-Mejora Continua del Servicio.
+
+4. ¿Cuál es su estructura?
+	El marco de trabajo de ITIL está dividido en áreas que abarcan todos los problemas encontrados por los administradores de IT. Su objetivo es crear una alineación entre lo que serían los negocios con la tecnología. Para ello, hay que tener en cuenta las siguientes partes:
+		-Perspectiva del negocio.
+		-Gestión del servicio. Que se dividen en:
+			-Entrega del servicio.
+			-Soporte del servicio.
+		-Gestión de infraestructuras IT.
+		-Gestión de aplicaciones.
+		-Gestión de la seguridad.
+
+5. ¿Cuál es su objetivo?
+	ITIL trata de que las personas que tengan este certificado, logren una familiaridad con los procesos y con temas organizacionales claves relacionados con la Administración de Servicios de IT. Además ITIL muestra el vocabulario estandarizado para describir los procesos de Administración de Servicios, junto con que logra que adquieran un entendimiento de la relevancia de la Administración de Servicios en su Organización.
+
+6. ¿Quiénes la usan?
+	Como ya sabemos, ITIL no es un estándar, con lo que una empresa no puede certificarse en ITIL. Lo más que puede obtenerse es una especie de diagnóstico en el que alguna empresa de consultoría puede opinar que, desde su punto de vista, cierta organizción "está alineada" con ITIL. Las únicas certificaciones disponibles actualmente son para personas, que de esta manera reciben un aval sobre sus conocimientos de parte de los organismos que desarrollan ITIL.
+
+7. ¿Hay algún tipo de sistema de certificación de su aplicación en un orgamismo o empresa?
+	No, ya que el certificado ITIL sólo puede certificar a personas, ni a organismos ni a empresas.
+
+8.¿Hay algún tipo de sistema de certificación de estar formado en su aplicación?
+	Sí, un ejempolo es la empresa PeopleCert, donde puedes conseguir tu certificado  en 25 idiomas distintos. Además de que está localizado en 160 países. Su página oficial es: http://www.peoplecert.org/en/Pages/Peoplecert-Home.aspx
+	
+	Esta empresa es sólo un ejemplo de la multitud de empresas que ofrecen una formación y certificación en ITIL.
+
+Referencias:
+http://www.magazcitum.com.mx/?p=50#.WMfZIlzhBhE
+https://seguinfo.wordpress.com/2008/12/03/%C2%BFque-es-itil-2/
